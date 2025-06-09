@@ -22,7 +22,9 @@
 
 ### 📊 Leetcode Stats
 
-![LeetCode](https://leetcard.jacoblin.cool/pratyushkhengle?ext=contest)
+<div align="center">
+  ![LeetCode](https://leetcard.jacoblin.cool/pratyushkhengle?ext=contest)
+</div>
 
 ---
 
