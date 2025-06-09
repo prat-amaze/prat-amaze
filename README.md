@@ -1,7 +1,7 @@
-![Banner](banner.png)
+![Banner](banner2.png)
 
-<h1 align="center">Hi 👋, I'm Pratyush</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
+
+<h3 align="center"><a href="https://pratyush-s-portfolio.vercel.app/" target="_blank">Click here to visit my Portfolio</a></h3>
 
 ---
 
