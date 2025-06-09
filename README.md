@@ -1,3 +1,5 @@
+![Banner](banner.png)
+
 <h2 align="left">Hi 👋! My name is Pratyush and I'm a FullStack developer, from India</h2>
 
 ###
