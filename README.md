@@ -22,10 +22,9 @@
 
 ### 📊 Leetcode Stats
 
-<div align="center">
-  
-</div>
-![LeetCode](https://leetcard.jacoblin.cool/pratyushkhengle?ext=contest)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/pratyushkhengle?ext=contest" alt="LeetCode Stats" />
+</p>
 
 ---
 
