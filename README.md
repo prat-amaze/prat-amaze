@@ -20,6 +20,12 @@
 
 ---
 
+### 📊 Leetcode Stats
+
+![LeetCode](https://leetcard.jacoblin.cool/pratyushkhengle?ext=contest)
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
